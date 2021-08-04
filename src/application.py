@@ -126,11 +126,3 @@ class APP():
 
 
 
-# per= '1mo'
-# t1 = "20211010T130136Z"
-# t2 = "20211016T030730Z"
-# tz = 'Europe/Athens'
-
-# tg = APP(per,tz,t1,t2)
-# tg.run()
-
